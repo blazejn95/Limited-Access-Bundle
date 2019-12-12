@@ -11,3 +11,6 @@ Now having the basic knowledge we can move onto how to set the input and how to 
   - inputA - file that specifies the amount of subbundles and their AU size. Example file has four subbundles 30 AUs each
   - inputB - contains the amount of allocation units needed per class. Example file is already in the Debug folder filled with 1 2 6 separated with new line which means there are three classes 1st requiring 1 AU 2nd requiring 2 AUs and 3rd requiring 6 AUs 
   - prios - filled with numbers starting from 0. They describe priority of each class. Example file is filled with 0 1 2 separated with new lines which means 1st class has priority 0, 2nd class has priority 1 and 3rd class has priority 2. The lower the priority number the more important the class is. When the subbundles are filled and request of class 1 cannot be serviced then a class 2 demand that is ALREADY BEING HANDLED BY SYSTEM will be removed and the traffic will be lost.
+- run the simulation
+- results are presented as follows:
+  - soon (tm)......
