@@ -1,0 +1,6 @@
+H:\ogr_dostepnosc\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Release\ConsoleApp8.exe.config
+H:\ogr_dostepnosc\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Release\ConsoleApp8.exe
+H:\ogr_dostepnosc\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Release\ConsoleApp8.pdb
+H:\ogr_dostepnosc\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Release\ConsoleApp8.csproj.CoreCompileInputs.cache
+H:\ogr_dostepnosc\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Release\ConsoleApp8.exe
+H:\ogr_dostepnosc\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Release\ConsoleApp8.pdb

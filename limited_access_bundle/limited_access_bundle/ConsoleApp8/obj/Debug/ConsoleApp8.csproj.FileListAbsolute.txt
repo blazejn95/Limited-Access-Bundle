@@ -1,0 +1,93 @@
+C:\Users\Hahahawe\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+C:\Users\Hahahawe\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+C:\Users\Hahahawe\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+C:\Users\Hahahawe\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csprojResolveAssemblyReference.cache
+C:\Users\Hahahawe\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\Hahahawe\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+C:\Users\Hahahawe\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
+C:\Users\Hahahawe\source\repos\ConsoleApp8 - Copy\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+C:\Users\Hahahawe\source\repos\ConsoleApp8 - Copy\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+C:\Users\Hahahawe\source\repos\ConsoleApp8 - Copy\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+C:\Users\Hahahawe\source\repos\ConsoleApp8 - Copy\ConsoleApp8\obj\Debug\ConsoleApp8.csprojResolveAssemblyReference.cache
+C:\Users\Hahahawe\source\repos\ConsoleApp8 - Copy\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\Hahahawe\source\repos\ConsoleApp8 - Copy\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+C:\Users\Hahahawe\source\repos\ConsoleApp8 - Copy\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
+C:\Users\Hahahawe\source\repos\ConsoleApp8 - Copy - Copy\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+C:\Users\Hahahawe\source\repos\ConsoleApp8 - Copy - Copy\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+C:\Users\Hahahawe\source\repos\ConsoleApp8 - Copy - Copy\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+C:\Users\Hahahawe\source\repos\ConsoleApp8 - Copy - Copy\ConsoleApp8\obj\Debug\ConsoleApp8.csprojResolveAssemblyReference.cache
+C:\Users\Hahahawe\source\repos\ConsoleApp8 - Copy - Copy\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\Hahahawe\source\repos\ConsoleApp8 - Copy - Copy\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+C:\Users\Hahahawe\source\repos\ConsoleApp8 - Copy - Copy\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
+H:\ConsoleApp8 - Copy - Copy\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+H:\ConsoleApp8 - Copy - Copy\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+H:\ConsoleApp8 - Copy - Copy\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+H:\ConsoleApp8 - Copy - Copy\ConsoleApp8\obj\Debug\ConsoleApp8.csprojResolveAssemblyReference.cache
+H:\ConsoleApp8 - Copy - Copy\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+H:\ConsoleApp8 - Copy - Copy\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+H:\ConsoleApp8 - Copy - Copy\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
+H:\packet_loss_prios - Copy\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+H:\packet_loss_prios - Copy\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+H:\packet_loss_prios - Copy\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+H:\packet_loss_prios - Copy\ConsoleApp8\obj\Debug\ConsoleApp8.csprojResolveAssemblyReference.cache
+H:\packet_loss_prios - Copy\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+H:\packet_loss_prios - Copy\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+H:\packet_loss_prios - Copy\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
+H:\packet_loss_prios - workinprogress\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+H:\packet_loss_prios - workinprogress\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+H:\packet_loss_prios - workinprogress\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+H:\packet_loss_prios - workinprogress\ConsoleApp8\obj\Debug\ConsoleApp8.csprojResolveAssemblyReference.cache
+H:\packet_loss_prios - workinprogress\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+H:\packet_loss_prios - workinprogress\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+H:\packet_loss_prios - workinprogress\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
+D:\packet_loss_prios - workinprogress\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+D:\packet_loss_prios - workinprogress\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+D:\packet_loss_prios - workinprogress\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
+H:\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+H:\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+H:\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+H:\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.csprojResolveAssemblyReference.cache
+H:\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+H:\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+H:\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
+F:\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.csprojResolveAssemblyReference.cache
+F:\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+F:\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+F:\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
+F:\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+F:\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+F:\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+H:\heavy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+H:\heavy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+H:\heavy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+H:\heavy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.csprojResolveAssemblyReference.cache
+H:\heavy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+H:\heavy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+H:\heavy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
+H:\heavy - Copy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+H:\heavy - Copy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+H:\heavy - Copy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+H:\heavy - Copy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.csprojResolveAssemblyReference.cache
+H:\heavy - Copy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+H:\heavy - Copy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+H:\heavy - Copy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
+H:\heavy - Copy - Copy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+H:\heavy - Copy - Copy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+H:\heavy - Copy - Copy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+H:\heavy - Copy - Copy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.csprojResolveAssemblyReference.cache
+H:\heavy - Copy - Copy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+H:\heavy - Copy - Copy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+H:\heavy - Copy - Copy\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
+H:\ogr_dostepnosc\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+H:\ogr_dostepnosc\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+H:\ogr_dostepnosc\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+H:\ogr_dostepnosc\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.csprojResolveAssemblyReference.cache
+H:\ogr_dostepnosc\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+H:\ogr_dostepnosc\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+H:\ogr_dostepnosc\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
+D:\ogr_dostepnosc\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+D:\ogr_dostepnosc\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+D:\ogr_dostepnosc\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
+D:\ogr_dostepnosc\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+D:\ogr_dostepnosc\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+D:\ogr_dostepnosc\packet_loss_prios - workinprogress - Copy (2)\ConsoleApp8\obj\Debug\ConsoleApp8.csprojResolveAssemblyReference.cache
