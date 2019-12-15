@@ -13,4 +13,7 @@ Now having the basic knowledge we can move onto how to set the input and how to 
   - prios - filled with numbers starting from 0. They describe priority of each class. Example file is filled with 0 1 2 separated with new lines which means 1st class has priority 0, 2nd class has priority 1 and 3rd class has priority 2. The lower the priority number the more important the class is. When the subbundles are filled and request of class 1 cannot be serviced then a class 2 demand that is ALREADY BEING HANDLED BY SYSTEM will be removed and the traffic will be lost.
 - run the simulation
 - results are presented as follows:
-  - soon (tm)......
+  - 1st column - incoming traffic per allocation unit in Erlangs. The simulation is made so that every stream offers the same traffic therefore for 4 subbundles 5 AUs each for 0.5 Erl per AU with 2 incoming streams where 1st requires 1 AU and 2nd requires 2 AUs we have following stream intensities:
+  - 1st  - 5
+  - 2nd - 2.5
+  
