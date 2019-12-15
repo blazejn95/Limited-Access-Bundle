@@ -18,3 +18,6 @@ Now having the basic knowledge we can move onto how to set the input and how to 
   - 3rd column - 95% confidence interval
 
 The general idea of how simulation works: We basically have n Poisson streams that throw events (requests). These events are put into the Flow which is a list of events sorted by their time. Every "round" of simulation we pop one event from the flow and change the state of system depending whether it was a demand for resources or finishing service of request. 
+TODO:
+- more flexible input. For example specifying the time limit of simulation via console
+- getters and setters
