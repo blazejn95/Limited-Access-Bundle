@@ -14,6 +14,6 @@ Now having the basic knowledge we can move onto how to set the input and how to 
 - run the simulation
 - results are presented as follows:
   - 1st column - incoming traffic per allocation unit in Erlangs. The simulation is made so that every stream offers the same traffic therefore for 4 subbundles 5 AUs each for 0.5 Erl per AU with 2 incoming streams where 1st requires 1 AU and 2nd requires 2 AUs we have following stream intensities:
-  - 1st  - 5
-  - 2nd - 2.5
+   - 1st  - 5
+   - 2nd - 2.5
   
